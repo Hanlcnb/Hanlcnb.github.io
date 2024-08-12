@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "chl.jpg"
   name             : "陈翰林"
   pronouns         : # example: "she/her"  
   bio              : "这个人很懒，不想说什么"
